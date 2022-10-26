@@ -8,6 +8,7 @@ The goal of this project was to practice the use of the wordpress CMS, as well a
 
 ## :bulb: Technologies & Languages Used
 
+- PHP
 - WordPress
 - SCSS
 - npm
