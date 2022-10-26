@@ -1,4 +1,4 @@
-# Cobra Kai Tribute Site 🐍 :question:
+# Cobra Kai Tribute Site 🐍 
 
 This project was a practice for my WordPress skills.
 
